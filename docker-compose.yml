@@ -1,0 +1,3 @@
+include:
+  - ./Die-Total-Rezepte-App-Frontend/docker-compose.yml
+  - ./Die-Total-Rezepte-App-Backend/docker-compose.yml

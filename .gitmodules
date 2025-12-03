@@ -1,0 +1,6 @@
+[submodule "Die-Total-Rezepte-App-Frontend"]
+	path = Die-Total-Rezepte-App-Frontend
+	url = git@github.com:arabbitplays/Die-Total-Rezepte-App-Frontend.git
+[submodule "Die-Total-Rezepte-App-Backend"]
+	path = Die-Total-Rezepte-App-Backend
+	url = git@github.com:arabbitplays/Die-Total-Rezepte-App-Backend.git
